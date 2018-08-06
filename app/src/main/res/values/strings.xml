@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewAnim</string>
+    <string name="content">为你更新%d条内容</string>
+</resources>
